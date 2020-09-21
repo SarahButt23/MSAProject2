@@ -3,7 +3,7 @@
 Website link: https://blog1sarahml.azurewebsites.net/
 
 ## Summary
-This project gave me the opportunity to express views and my experience as a MATES mentor in form of a blogging website created using WordPress and its various plugins such as Elemento, Envato Elements, Yoast SEO and Hello Dolly to name few to create asthetically pleasing website which is easy to navigate and understand the basic and advanced concept of website buiding and hosting.
+This project gave me the opportunity to express views and my experience as MATES mentor in form of a blogging website created using WordPress and its various plugins such as Elemento, Envato Elements, Yoast SEO and Hello Dolly to name few to create asthetically pleasing website which is easy to navigate and understand the basic and advanced concept of website buiding and hosting.
 
 ## Home Page
 Homepage is simple with introduction to MATES program by Western Sydney University and some testimonials from my mentees with header and footer having typical links to various pages and blogs. Stock and free to use images are used where necessary.
